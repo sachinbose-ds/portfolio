@@ -71,10 +71,11 @@ certifications:
     url: "https://www.credential.net/your-certification-url-3"
 
 # Additional settings
-theme: "your-theme-name"
+theme: "pages-themes/minimal@v0.2.0"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Build settings
 markdown: kramdown
