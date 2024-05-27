@@ -1,0 +1,81 @@
+# config.yml
+
+# Site settings
+title: "Your Name - Data Scientist"
+baseurl: ""
+url: "https://yourdomain.com"
+description: "Professional portfolio of [Your Name], a Data Scientist specializing in data analysis, machine learning, and statistical modeling."
+
+# Author settings
+author:
+  name: "Your Name"
+  email: "youremail@example.com"
+  linkedin: "https://linkedin.com/in/yourprofile"
+  github: "https://github.com/yourusername"
+  twitter: "https://twitter.com/yourprofile"
+
+# Social settings
+social:
+  - name: LinkedIn
+    url: "https://linkedin.com/in/yourprofile"
+  - name: GitHub
+    url: "https://github.com/yourusername"
+  - name: Twitter
+    url: "https://twitter.com/yourprofile"
+  - name: Email
+    url: "mailto:youremail@example.com"
+
+# Portfolio settings
+portfolio:
+  - title: "Project Name 1"
+    description: "Brief description of the project."
+    technologies: ["Python", "Scikit-Learn", "Pandas"]
+    highlights:
+      - "Highlight 1"
+      - "Highlight 2"
+      - "Highlight 3"
+    url: "https://github.com/yourusername/project-name-1"
+  - title: "Project Name 2"
+    description: "Brief description of the project."
+    technologies: ["R", "ggplot2", "dplyr"]
+    highlights:
+      - "Highlight 1"
+      - "Highlight 2"
+      - "Highlight 3"
+    url: "https://github.com/yourusername/project-name-2"
+  - title: "Project Name 3"
+    description: "Brief description of the project."
+    technologies: ["SQL", "Tableau"]
+    highlights:
+      - "Highlight 1"
+      - "Highlight 2"
+      - "Highlight 3"
+    url: "https://github.com/yourusername/project-name-3"
+
+# Blog settings
+blog:
+  - title: "Title of Blog Post 1"
+    url: "https://yourblogurl.com/blog-post-1"
+  - title: "Title of Blog Post 2"
+    url: "https://yourblogurl.com/blog-post-2"
+  - title: "Title of Blog Post 3"
+    url: "https://yourblogurl.com/blog-post-3"
+
+# Certifications settings
+certifications:
+  - name: "Certification Name 1"
+    url: "https://www.credential.net/your-certification-url-1"
+  - name: "Certification Name 2"
+    url: "https://www.credential.net/your-certification-url-2"
+  - name: "Certification Name 3"
+    url: "https://www.credential.net/your-certification-url-3"
+
+# Additional settings
+theme: "your-theme-name"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
