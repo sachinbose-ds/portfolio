@@ -1,13 +1,13 @@
 # portfolio
 ![Profile Banner](https://yourimageurl.com/banner.png)
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Sachin Bose 👋
 
 Welcome to my GitHub profile! I'm a Data Scientist with a passion for uncovering insights from data and building robust machine learning models. Here, you'll find a collection of my projects, research, and contributions to the field of data science.
 
 ## About Me
 
-- 🌟 Data Scientist with [X] years of experience in data analysis, machine learning, and statistical modeling.
+- 🌟 Data Scientist with 2 years of experience in data analysis, machine learning, and statistical modeling.
 - 📊 Proficient in Python, R, SQL, and various data science libraries and frameworks.
 - 🎓 Holding a [Your Degree] in [Your Field] from [Your University].
 - 🧠 Always eager to learn and explore new technologies and methodologies in data science.
